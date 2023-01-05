@@ -5,4 +5,5 @@ export const types = {
     ALERT_ON: "ALERT_ON",
     ALERT_OFF: 'ALERT_OFF',
     USERS_LIST:'USERS_LIST',
+    GET_USERS:'GET_USERS',
 }
